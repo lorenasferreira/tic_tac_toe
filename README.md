@@ -77,21 +77,21 @@ mvn exec:java
 ---
 ## 🚀 Project Status
 
-✔ Core gameplay implemented. 
-✔ Win/draw validation. 
-✔ Restart functionality. 
-✔ Input validation. 
+✔ Core gameplay implemented<br>
+✔ Win/draw validation<br>
+✔ Restart functionality<br>
+✔ Input validation<br>
 ✔ Clean object-oriented structure
 
 ---
 
 ## ❓ FAQs
 
-- **Q: Is this project graphical?**
+**Q: Is this project graphical?**<br>
 No. It runs entirely in the terminal (CLI).
 
-- **Q: Was this a team project?**
+**Q: Was this a team project?**<br>
 No. This project was fully developed by me.
 
-- **Q: What was the main goal of this project?**
+**Q: What was the main goal of this project?**<br>
 To practice object-oriented programming, game flow control, and logic validation in Java.
